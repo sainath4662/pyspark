@@ -1,0 +1,27 @@
+2024-12-12 21:34:25 - __main__ - INFO - Starting PySpark job with environment: default
+2024-12-12 21:34:31 - __main__ - INFO - Spark session initialized
+2024-12-12 21:34:31 - __main__ - INFO - Reading data from: D:/pyspark/Project/data/raw/Andhra_Health_Data.csv
+2024-12-12 21:34:39 - __main__ - INFO - Cleaning data
+2024-12-12 21:34:39 - __main__ - INFO - Transforming data
+2024-12-12 21:34:39 - __main__ - INFO - Writing data to: D:/pyspark/Project/data/processed/output/
+2024-12-12 21:34:44 - __main__ - INFO - PySpark job completed successfully
+2024-12-12 21:34:44 - __main__ - INFO - Spark session stopped
+2024-12-12 21:34:45 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-12-12 21:50:51 - __main__ - INFO - Starting PySpark job with environment: default
+2024-12-12 21:51:15 - __main__ - INFO - Spark session initialized
+2024-12-12 21:51:15 - __main__ - INFO - Reading data from: D:/pyspark/Project/data/raw/Andhra_Health_Data.csv
+2024-12-12 21:51:30 - __main__ - INFO - Cleaning data
+2024-12-12 21:51:30 - __main__ - INFO - Transforming data
+2024-12-12 21:51:30 - __main__ - INFO - Writing data to: D:/pyspark/Project/data/processed/output/
+2024-12-12 21:51:34 - __main__ - INFO - PySpark job completed successfully
+2024-12-12 21:51:35 - __main__ - INFO - Spark session stopped
+2024-12-12 21:51:35 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-12-12 22:02:15 - __main__ - INFO - Starting PySpark job with environment: default
+2024-12-12 22:02:26 - __main__ - INFO - Spark session initialized
+2024-12-12 22:02:26 - __main__ - INFO - Reading data from: D:/pyspark/Project/data/raw/Andhra_Health_Data.csv
+2024-12-12 22:02:45 - __main__ - INFO - Cleaning data
+2024-12-12 22:02:45 - __main__ - INFO - Transforming data
+2024-12-12 22:02:45 - __main__ - INFO - Writing data to: D:/pyspark/Project/data/processed/output/
+2024-12-12 22:02:50 - __main__ - INFO - PySpark job completed successfully
+2024-12-12 22:02:50 - __main__ - INFO - Spark session stopped
+2024-12-12 22:02:50 - py4j.clientserver - INFO - Closing down clientserver connection

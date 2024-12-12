@@ -1,0 +1,15 @@
+default:
+  input_path: "D:/pyspark/Project/data/raw/Andhra_Health_Data.csv"
+  output_path: "D:/pyspark/Project/data/processed/output/"
+  log_path: "D:/pyspark/Project/logs/app.log"
+  log_level: "INFO"
+
+dev:
+  input_path: "gs://dev_bucket/sample_data.csv"
+  output_path: "gs://dev_bucket/processed/"
+  log_level: "WARN"
+
+prod:
+  input_path: "gs://prod_bucket/sample_data.csv"
+  output_path: "gs://prod_bucket/processed/"
+  log_level: "ERROR"
